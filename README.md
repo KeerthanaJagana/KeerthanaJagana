@@ -27,11 +27,13 @@ I build clean, user-focused web applications with modern full-stack technologies
 
 | Project | Description | Stack |
 |---|---|---|
-| [Wardrobe App](https://github.com/KeerthanaJagana/Wardrobe-app-Website)[Link](https://muse-wardrobe-app-website.vercel.app/) | Digital wardrobe landing page | Next.js, React, Tailwind |
+| [Wardrobe App](https://github.com/KeerthanaJagana/Wardrobe-app-Website)| Digital wardrobe landing page | Next.js, React, Tailwind |
 | [MindEase](https://github.com/KeerthanaJagana/SwiftUI_Project_MindEase) | iOS mental wellness app | Swift, SwiftUI |
 | [Selenium Framework](https://github.com/KeerthanaJagana/Selenium-java-data-driven-framework) | Java test automation framework | Java, Selenium, TestNG |
 | [BlueBikes Redesign](https://github.com/KeerthanaJagana/BlueBikesRedesign) | UX redesign for Boston bike-share | HTML/CSS |
 ##  Wardrobe App Design System
+
+Live https://muse-wardrobe-app-website.vercel.app/
 
 Explore the full design system on Figma:
 
