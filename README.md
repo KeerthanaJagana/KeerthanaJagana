@@ -1,4 +1,4 @@
-# Hi, I'm Keerthana Jagana 👋
+# Hi, I'm Keerthana Jagana 
 
 **Full Stack Developer** · TypeScript · React · Next.js · Java
 
