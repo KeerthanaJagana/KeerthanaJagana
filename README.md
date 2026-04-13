@@ -31,6 +31,11 @@ I build clean, user-focused web applications with modern full-stack technologies
 | [MindEase](https://github.com/KeerthanaJagana/SwiftUI_Project_MindEase) | iOS mental wellness app | Swift, SwiftUI |
 | [Selenium Framework](https://github.com/KeerthanaJagana/Selenium-java-data-driven-framework) | Java test automation framework | Java, Selenium, TestNG |
 | [BlueBikes Redesign](https://github.com/KeerthanaJagana/BlueBikesRedesign) | UX redesign for Boston bike-share | HTML/CSS |
+## 🎨 Wardrobe App Design System
+
+Explore the full design system on Figma:
+
+👉 https://www.figma.com/community/file/1625536342373766840  
 
 ---
 
